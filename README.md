@@ -29,3 +29,12 @@ https://etherscan.io/token/0x60eb57d085c59932d5faa6c6026268a4386927d0#balances
 application will be started at localhost:8080
 
 
+## Deployment
+
+Application is deployed to DO, test url:
+[](http://167.71.75.66:8080/0x60eb57d085c59932d5faa6c6026268a4386927d0/0x38765581bb9715ddbcd11205dfdda47334a80daf)
+
+## Future plans
+
+add security 
+add validations
